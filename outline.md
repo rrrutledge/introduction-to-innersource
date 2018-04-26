@@ -2,12 +2,12 @@ The purpose of this document is the hold the supplementary and planning material
 
 # Background
 
-PayPal is sponsoring (with Nike collaborating) several online video trainings (Orioles) to be hosted by O'Reilly Media.
+PayPal is sponsoring (with Nike and others collaborating) several online video trainings (learning path) to be hosted by O'Reilly Media.
 These trainings should be the focal point and shared context of the current public conversation around InnerSource.
 
 # Goals
 
-The goal of this presentation is to introduce the concept of InnerSource as-defined in the first Oriole.
+The goal of this presentation is to introduce the concept of InnerSource as-defined in the learning path.
 
 Key points include:
 
@@ -21,7 +21,7 @@ Key points include:
     * Voluntary Code Contribution
     * Prioritized Mentorship
 
-This presentation should also introduce the concept of the Orioles, encouraging and teaching their viewing and usage.
+This presentation should also introduce the concept of the learning path, encouraging and teaching their viewing and usage.
 
 # Audience
 
@@ -46,10 +46,10 @@ Delve into some “gotchas” and more nuanced points about the InnerSource proc
 Consider strategic use of short and compelling anecdotes to cement key parts of the message further.
 Trend towards including material in this section that further dispels InnerSource misconceptions and also sets the stage for the Orioles.
 
-## Orioles
-Explain what are the Orioles and how to find them.
+## Learning path
+Explain what is the learning path and how to find it.
 Give a preview of what's been done already and what is upcoming.
 Share how the audience can get involved in the conversation.
 
 ## Conclusion
-Review the key points of this presentation and encourage the audience to use and contribute to the Orioles.
+Review the key points of this presentation and encourage the audience to use and contribute to the learning path.
